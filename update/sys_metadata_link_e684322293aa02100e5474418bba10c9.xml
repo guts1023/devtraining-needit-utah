@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e9a3faee936a02100e5474418bba10df</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="business_unit_strategy">
+    <business_unit_strategy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assigned_to display_value="Walton Schwallie">da826bf03710200044e0bfc8bcbe5da0</assigned_to>
+        <business_unit display_value="IT">ac26c204870221003ff35d88e3e3ec61</business_unit>
+        <description>Proof of Concept</description>
+        <enterprise_strategy display_value="Automation/Effort Reduction">d2dffdf83b501300b90c4bb534efc4bb</enterprise_strategy>
+        <from_fiscal>2024-06-05 18:34:53</from_fiscal>
+        <number>BUS0001001</number>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 18:35:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9a3faee936a02100e5474418bba10df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 18:35:45</sys_updated_on>
+        <title>Reduce man hours</title>
+        <to_fiscal>2024-06-07 18:35:03</to_fiscal>
+        <type>key_initiative</type>
+    </business_unit_strategy>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 18:38:16</sys_created_on>
+        <sys_id>e684322293aa02100e5474418bba10c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BUS0001001</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_e684322293aa02100e5474418bba10c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 18:38:16</sys_updated_on>
+        <tablename>business_unit_strategy</tablename>
+    </sys_metadata_link>
+</record_update>
